@@ -13,5 +13,7 @@ This repository hosts several datasets associated with a project assessing the s
 
 ### Contributors
 Spencer Stewart, School of Information Studies, Purdue University
+
 Xuening Kong, Department of History, Purdue University
+
 Matthew Hannah, School of Information Studies, Purdue University
