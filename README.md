@@ -12,8 +12,8 @@ This repository hosts several datasets associated with our larger project assess
 *Forthcoming*
 
 ### Contributors
-Spencer Stewart, School of Information Studies, Purdue University
+**Spencer Stewart**, School of Information Studies, Purdue University
 
-Xuening Kong, Department of History, Purdue University
+**Xuening Kong**, Department of History, Purdue University
 
-Matthew Hannah, School of Information Studies, Purdue University
+**Matthew Hannah**, School of Information Studies, Purdue University
